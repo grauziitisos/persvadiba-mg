@@ -13,7 +13,7 @@ graph TD
     H --> I
 
     I --> J[Darba tiesisko attiecību izveidošana -komplektēšana-]
-    I --> L[Personāla lietvedība -komplektēšana + izmantošana-]
+    J --> L[Personāla lietvedība -komplektēšana + izmantošana-]
     J --> K[Jaunu darbinieku ievadīšana darbā -komplektēšana-]
 
     A --> U[3.Ikdienišķais cikls]
